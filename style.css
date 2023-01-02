@@ -1,3 +1,45 @@
+.name {
+    color: rgb(0, 20, 241);
+    font-size: 30px;
+    border-radius: 10px;
+}
+p {
+    font-size: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: silver;
+}
+.slogan p{
+    font-size: 5px;
+    color: aqua;
+}
+.links p{
+    word-spacing: 100px;
+    color: rgb(87, 5, 110);
+}
+hr {
+    border: 1px solid gray;
+}
 body {
-    background: blue; 
+    background-image: url("https://wallpapercave.com/wp/wp3498945.jpg");
+    background-size: cover;
+    }
+.about p{
+    color: rgb(2, 124, 126);
+}
+.intro p{
+    font-size: 40px;
+    border-style: outset;
+    color: rgb(247, 0, 255);
+    margin-right: 500px;
+}
+.contact p{
+    font-size: 15px;
+    color: blue;
+}
+.about-title p{
+    font-size: 30px;
+    color: rgb(255, 128, 0);
+}
+.email-pic {
+    color: white;
 }
